@@ -44,7 +44,7 @@ export const livestockProducts = [
     image: "/livestock-products/Temp_Tone_Liquid.webp",
   },
   { name: "COLCUS", image: "/livestock-products/COLCUS.webp" },
-  { name: "Minrall", image: "/livestock-products/Minrall.webp" },
+  { name: "Minrall", image: "/livestock-products/minrall.webp" },
   { name: "POULT UP", image: "/livestock-products/POULT_UP.webp" },
   { name: "Astar Jest", image: "/livestock-products/Astar_Jest.webp" },
   { name: "DEE PHOSPHATE", image: "/livestock-products/DEE_PHOSPHATE.webp" },
